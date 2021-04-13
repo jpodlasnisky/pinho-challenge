@@ -66,7 +66,7 @@ JS application developed to solve the challenged proposed by Pinho. Both backend
 ### List all products
 ![image](https://user-images.githubusercontent.com/21188945/114625353-7fe2fe00-9c88-11eb-83cf-cc4f3bd05c64.png)
 ### List my products
-
+![image](https://user-images.githubusercontent.com/21188945/114628071-ab67e780-9c8c-11eb-8368-875e385b4502.png)
 ### Edit a product
 
 ### List all users
