@@ -14,7 +14,6 @@ JS application developed to solve the challenged proposed by Pinho. Both backend
 > ![](https://img.shields.io/badge/cloud-cloudnary-informational)
 
 ## Summary
-> 
 **We need you to build basically a CRUD of products of e-commerce with some requirements. Here are the user stories you need to follow to develop the application**
 
 ### User stories
