@@ -1,5 +1,5 @@
 # JS Code Challenge sent by Pinho
-JS application developed to solve the challenged proposed by Pinho. Both backend and frontend were developed by me to solve this.
+JS application developed to solve the challenged proposed by Pinho. Both backend and frontend were developed by me to solve this. Pay attention to create your own .env files.
 
 ## Languages, Frameworks and Technologies
 > ![npm](https://img.shields.io/npm/v/express?color=black&label=NodeJS&logo=node.js)
@@ -34,6 +34,28 @@ JS application developed to solve the challenged proposed by Pinho. Both backend
 7.  Don't worry too much about the UI/UX. Focus on the core features.    
 8.  There are a lot more features in e-commerce but don't worry, do whatever you think it's important to complete those user stories.
 
+### DOTENV Files
+#### Frontend environment
+'''
+# API CONFIGURATION
+BASE_URL=
+'''
+#### Backend environment
+'''
+# API CONFIGURATION
+API_VERSION=/api/v1
+# EMAIL CONFIGURATION
+EMAIL_USERNAME=
+EMAIL_PASSWORD=
+EMAIL_HOST=smtp.mailtrap.io
+EMAIL_PORT=2525
+# CLOUDNARY CONFIGURATION
+CLOUD_NAME=
+API_KEY=
+API_SECRET=
+# JWT CONFIGURATION
+JWT_SECRET=
+'''
 ## API
 ### Response Codes 
 ```
