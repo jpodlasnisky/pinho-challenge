@@ -1,5 +1,11 @@
 # JS Code Challenge sent by Pinho
-JS application developed to solve the challenged proposed by Pinho. Both backend and frontend were developed by me to solve this. Pay attention to create your own .env files.
+JS application developed to solve the challenged proposed by Pinho. Both backend and frontend were developed by me to solve this. Pay attention to the following:
+1. Create your own .env files.
+2. Run a PostgreSQL server through Docker. (the docker-compose file is located in backend folder)
+3. Run ```npm start``` for /backend and /frontend/crud-frontend. They're two distinct enviroments. 
+4. The default config for backend will run on http://localhost:3333
+5. The default config for frontend will run on http://localhost:3000
+6. If you have any doubts or issues about the project, don't hesitate to contact me.
 
 ## Languages, Frameworks and Technologies
 > ![npm](https://img.shields.io/npm/v/express?color=black&label=NodeJS&logo=node.js)
