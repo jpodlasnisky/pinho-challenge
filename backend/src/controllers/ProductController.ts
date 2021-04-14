@@ -56,9 +56,7 @@ export default class ProductController {
     } else {
       return response.status(400).json({ error: "Unexpected error while updating" });
     }
-
   }
-
 
   async delete(request: Request, response: Response) {
     const { id } = request.body;

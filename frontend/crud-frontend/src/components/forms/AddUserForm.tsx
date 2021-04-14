@@ -37,6 +37,7 @@ const AddUserForm: React.FC = () => {
       <input
         type="text"
         name="name"
+        required
         value={user.name}
         onChange={handleInputChange}
       />
@@ -44,6 +45,7 @@ const AddUserForm: React.FC = () => {
       <input
         type="email"
         name="email"
+        required
         value={user.email}
         onChange={handleInputChange}
       />
@@ -51,6 +53,7 @@ const AddUserForm: React.FC = () => {
       <input
         type="password"
         name="password"
+        required
         value={user.password}
         onChange={handleInputChange}
       />
