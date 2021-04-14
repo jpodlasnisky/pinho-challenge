@@ -45,22 +45,35 @@ JS application developed to solve the challenged proposed by Pinho. Both backend
 #### Frontend environment
 '''
 #API CONFIGURATION
+
 BASE_URL=
 '''
 #### Backend environment
 '''
 #API CONFIGURATION
+
 API_VERSION=/api/v1
+
 #EMAIL CONFIGURATION
+
 EMAIL_USERNAME=
+
 EMAIL_PASSWORD=
+
 EMAIL_HOST=smtp.mailtrap.io
+
 EMAIL_PORT=2525
+
 #CLOUDNARY CONFIGURATION
+
 CLOUD_NAME=
+
 API_KEY=
+
 API_SECRET=
+
 #JWT CONFIGURATION
+
 JWT_SECRET=
 '''
 ## API
