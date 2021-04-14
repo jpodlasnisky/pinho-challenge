@@ -78,22 +78,20 @@ JWT_SECRET=
 ```
 ## Frontend
 ### First view - Sign in / Sign up
-![image](https://user-images.githubusercontent.com/21188945/114625187-3eeae980-9c88-11eb-97a7-411363fcdee9.png)
-![image](https://user-images.githubusercontent.com/21188945/114625218-47dbbb00-9c88-11eb-9bfb-03b50c361b61.png)
+![image](https://user-images.githubusercontent.com/21188945/114710855-a0e93480-9d04-11eb-8811-6623a44b8c75.png)
+![image](https://user-images.githubusercontent.com/21188945/114710884-a8104280-9d04-11eb-9df7-20d76a8637ab.png)
 ### Home Dashboard
-![image](https://user-images.githubusercontent.com/21188945/114625281-5e821200-9c88-11eb-8391-f134dfa49641.png)
+![image](https://user-images.githubusercontent.com/21188945/114710973-c5dda780-9d04-11eb-9b80-f0c95c1592f1.png)
 ### Create a new product
-![image](https://user-images.githubusercontent.com/21188945/114625343-75c0ff80-9c88-11eb-85c1-de027f5f983c.png)
+![image](https://user-images.githubusercontent.com/21188945/114710993-cfffa600-9d04-11eb-93dc-e7fe278e2b65.png)
 ### List all products
-![image](https://user-images.githubusercontent.com/21188945/114625353-7fe2fe00-9c88-11eb-83cf-cc4f3bd05c64.png)
+![image](https://user-images.githubusercontent.com/21188945/114711029-db52d180-9d04-11eb-9317-f7f1ccddcff2.png)
 ### List my products
 ![image](https://user-images.githubusercontent.com/21188945/114628071-ab67e780-9c8c-11eb-8368-875e385b4502.png)
 ### Edit a product
-
+![image](https://user-images.githubusercontent.com/21188945/114711067-e574d000-9d04-11eb-846a-254e1d6e5d67.png)
 ### List all users
-![image](https://user-images.githubusercontent.com/21188945/114625725-13b4ca00-9c89-11eb-90dd-f70d7e79b9ae.png)
-### Create a new user
-![image](https://user-images.githubusercontent.com/21188945/114625750-1ca59b80-9c89-11eb-8805-5d835d0fb1cf.png)
+![image](https://user-images.githubusercontent.com/21188945/114711496-67fd8f80-9d05-11eb-971c-f057f9abc973.png)
 ## Next steps
 ```
 1. Create unit tests
