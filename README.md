@@ -4,6 +4,7 @@ JS application developed to solve the challenged proposed by Pinho. Both backend
 ## Languages, Frameworks and Technologies
 > ![npm](https://img.shields.io/npm/v/express?color=black&label=NodeJS&logo=node.js)
 > ![ts](https://flat.badgen.net/badge/-/TypeScript/blue?icon=typescript&label)
+> ![css](https://img.shields.io/badge/CSS-Primitive-informational)
 > ![postgres](https://img.shields.io/badge/postgresql-10.0-blue?label=PostgreSQL&logo=postgresql)
 > ![docker](https://img.shields.io/badge/3.3.0-blue?label=Docker&logo=docker)
 > ![npm](https://img.shields.io/npm/v/express?color=black&label=Express&logo=node.js)
